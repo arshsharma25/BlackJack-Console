@@ -1,0 +1,48 @@
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.deps.json
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.dll
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.pdb
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.csproj.AssemblyReference.cache
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfoInputs.cache
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfo.cs
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.csproj.CoreCompileInputs.cache
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.dll
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/refint/PG2Input.dll
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.pdb
+C:/Users/zappt/Desktop/Full Sail Stuff/PG2/PG2 Labs/PG2Input/obj/Debug/net5.0/ref/PG2Input.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.deps.json
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.csproj.AssemblyReference.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfoInputs.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfo.cs
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.csproj.CoreCompileInputs.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/refint/PG2Input.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/PG2Input/obj/Debug/net5.0/ref/PG2Input.dll
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.deps.json
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/bin/Debug/net5.0/ref/PG2Input.dll
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/bin/Debug/net5.0/PG2Input.pdb
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.csproj.AssemblyReference.cache
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfoInputs.cache
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfo.cs
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.csproj.CoreCompileInputs.cache
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/ref/PG2Input.dll
+/home/arsh43131/Downloads/PG2 Labs/PG2Input/obj/Debug/net5.0/PG2Input.pdb
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/bin/Debug/net5.0/PG2Input.deps.json
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/bin/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/bin/Debug/net5.0/ref/PG2Input.dll
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/bin/Debug/net5.0/PG2Input.pdb
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.csproj.AssemblyReference.cache
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfoInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.AssemblyInfo.cs
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.csproj.CoreCompileInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/ref/PG2Input.dll
+/home/arsh43131/Documents/Github/BlackJack/PG2Input/obj/Debug/net5.0/PG2Input.pdb

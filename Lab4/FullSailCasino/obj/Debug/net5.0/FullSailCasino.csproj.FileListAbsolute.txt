@@ -1,0 +1,17 @@
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/FullSailCasino.deps.json
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/FullSailCasino.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/ref/FullSailCasino.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/FullSailCasino.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/BlackjackClassLibrary.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/BlackjackClassLibrary.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/bin/Debug/net5.0/PG2Input.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.csproj.AssemblyReference.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.AssemblyInfoInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.AssemblyInfo.cs
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.csproj.CoreCompileInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.csproj.CopyComplete
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/ref/FullSailCasino.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab4/FullSailCasino/obj/Debug/net5.0/FullSailCasino.pdb

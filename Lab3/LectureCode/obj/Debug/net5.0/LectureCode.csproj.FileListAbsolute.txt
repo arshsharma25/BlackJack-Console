@@ -1,0 +1,34 @@
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.deps.json
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.csproj.AssemblyReference.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.AssemblyInfoInputs.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.AssemblyInfo.cs
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.csproj.CoreCompileInputs.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/refint/LectureCode.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/ref/LectureCode.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.deps.json
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/ref/LectureCode.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.pdb
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.AssemblyInfoInputs.cache
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.AssemblyInfo.cs
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.csproj.CoreCompileInputs.cache
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/ref/LectureCode.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.deps.json
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/bin/Debug/net5.0/ref/LectureCode.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/bin/Debug/net5.0/LectureCode.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.AssemblyInfoInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.AssemblyInfo.cs
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.csproj.CoreCompileInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/ref/LectureCode.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/LectureCode/obj/Debug/net5.0/LectureCode.pdb

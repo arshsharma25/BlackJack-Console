@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+LLaI/rJ2Yd0vWhiBVRduNohIOXrMS6Cxrb7NfgGsTm58SS68Rs+snpP6fQVU8H6M0BES6obPr/tCF4mAyioQ==",
+  "success": true,
+  "projectFilePath": "/home/arsh43131/Documents/Github/BlackJack/PG2Input/PG2Input.csproj",
+  "expectedPackageFiles": [
+    "/home/arsh43131/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

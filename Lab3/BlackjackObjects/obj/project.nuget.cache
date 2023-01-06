@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ksv6EAi/gYRjEEV+9tVv+pyI1Svxqt1iaLwvwGwM7iQoYq4WOh6VhaupKuwU3WGbWSXvzp6rHW9YUcxi9gS+fA==",
+  "success": true,
+  "projectFilePath": "/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/BlackjackClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/arsh43131/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

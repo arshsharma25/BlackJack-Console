@@ -1,0 +1,24 @@
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\bin\Debug\net5.0\LectureCode.deps.json
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\bin\Debug\net5.0\LectureCode.dll
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\bin\Debug\net5.0\LectureCode.pdb
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.csproj.AssemblyReference.cache
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.AssemblyInfoInputs.cache
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.AssemblyInfo.cs
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.csproj.CoreCompileInputs.cache
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.dll
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\refint\LectureCode.dll
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.pdb
+C:\Users\zappt\Desktop\Full Sail Stuff\PG2\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\ref\LectureCode.dll
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\bin\Debug\net5.0\LectureCode.deps.json
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\bin\Debug\net5.0\LectureCode.dll
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\bin\Debug\net5.0\LectureCode.pdb
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.csproj.AssemblyReference.cache
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.AssemblyInfoInputs.cache
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.AssemblyInfo.cs
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.dll
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\refint\LectureCode.dll
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\LectureCode.pdb
+C:\Users\arshs\Documents\Varsity Students\Adam\PG2 Labs\Lab2\LectureCode\obj\Debug\net5.0\ref\LectureCode.dll

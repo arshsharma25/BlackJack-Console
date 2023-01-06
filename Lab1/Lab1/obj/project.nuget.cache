@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzKedBWNWVHyiwYFV8Z4YQ/w/8osyxl48Wcq/h8P+2hbVlQwqs3Gg58jYqxlvVTTc6K5WoMtyusCmdtQYg2sYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zappt\\Desktop\\Full Sail Stuff\\PG2\\PG2 Labs\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zappt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\zappt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zappt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zappt\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

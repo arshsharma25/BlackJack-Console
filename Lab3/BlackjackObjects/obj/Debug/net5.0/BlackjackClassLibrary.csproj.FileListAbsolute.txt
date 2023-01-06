@@ -1,0 +1,45 @@
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.AssemblyReference.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.AssemblyInfoInputs.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.AssemblyInfo.cs
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.CoreCompileInputs.cache
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.deps.json
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/PG2Input.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/PG2Input.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.CopyComplete
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/refint/BlackjackClassLibrary.dll
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.pdb
+C:/Users/arshs/Documents/Varsity Students/Adam/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/ref/BlackjackClassLibrary.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.deps.json
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/ref/BlackjackClassLibrary.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.pdb
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/bin/Debug/net5.0/PG2Input.pdb
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.AssemblyReference.cache
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.AssemblyInfoInputs.cache
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.AssemblyInfo.cs
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.CoreCompileInputs.cache
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.CopyComplete
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/ref/BlackjackClassLibrary.dll
+/home/arsh43131/Downloads/PG2 Labs/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.deps.json
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/bin/Debug/net5.0/ref/BlackjackClassLibrary.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/bin/Debug/net5.0/BlackjackClassLibrary.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/bin/Debug/net5.0/PG2Input.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/bin/Debug/net5.0/PG2Input.pdb
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.AssemblyReference.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.AssemblyInfoInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.AssemblyInfo.cs
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.CoreCompileInputs.cache
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.csproj.CopyComplete
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/ref/BlackjackClassLibrary.dll
+/home/arsh43131/Documents/Github/BlackJack/Lab3/BlackjackObjects/obj/Debug/net5.0/BlackjackClassLibrary.pdb

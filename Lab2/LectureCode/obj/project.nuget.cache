@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xA7Gjslp0Cwe6N7WgwEGWoBsy6T9l6AGddPzCuoVXvWnnj4xoGW/7kiTKN5SyKObNMbx4+PuwaAFtHgU1eOwBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arshs\\Documents\\Varsity Students\\Adam\\PG2 Labs\\Lab2\\LectureCode\\LectureCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arshs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
